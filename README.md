@@ -2,7 +2,7 @@
 MovieReX is a hybrid recommendation system that combines collaborative filtering and content-based filtering to provide personalized movie recommendations. Built using Python and the TMDB 5000 dataset, it utilizes Scikit-learn features to run Cosine similarity for both content and collaborative filtering.
 How to get this running:
 ### 1: Go to Kaggle 
-### 2: search up "TMDB 5000" and download or use the API to get the files in your instance
+### 2: search up "TMDB 5000" and download the file or use the Kaggle API to get the files in your instance
 ### 3: Do the same for "The Movies Dataset"
 ### 4: Upload the files to Colab or use the path to read the csv files
 
