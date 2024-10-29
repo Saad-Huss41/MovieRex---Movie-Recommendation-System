@@ -7,5 +7,5 @@ How to get this running:
 ### 4: Upload the files to Colab or use the path to read the csv files.
 
 Important Notes:
-- This project is heavily dependent on libraries, which are constantly changing. Any errors along the lines of " 'X' has no attribute 'Y' ", check online if the library still supports that method and if not, what the alternative is.
+- This project is heavily dependent on libraries, which are constantly changing. For any errors along the lines of " 'X' has no attribute 'Y' ", check online if the library still supports that method and if not, what the alternative is.
 - The project may not work as intended with other datasets. If you are going to use a different dataset, some things to note are that the TMDB dataset requires us to combine 2 datasets into one. You may want to ignore this step depending on what your files look like. Make sure you keep track of which dataset the code is dealing with so that your new dataset works properly.
