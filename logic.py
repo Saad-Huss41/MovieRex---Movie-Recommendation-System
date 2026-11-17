@@ -162,8 +162,6 @@ get_recommendations('The Dark Knight Rises', cosine_sim2)
 
 get_recommendations('The Godfather', cosine_sim2)
 
-import app from app
-
 # Congratulations again! You have another recommender system based on Keywords, Genres, and Credits.
 
 #!pip install surprise
